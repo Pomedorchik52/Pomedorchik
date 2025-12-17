@@ -1,4 +1,4 @@
-<h1 align="center">Привет меня зовут<a href="https://daniilshat.ru/" target="_blank"> Pomedorchik</a> 
+<h1 align="center">Привет меня зовут<a href="" target="_blank"> Pomedorchik</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p align="center">
   <img width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJ6ZWZ2endjZTYybGFpcDBzMzF3MDluOXc4czR2cGFpODl2YmxvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
